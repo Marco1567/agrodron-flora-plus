@@ -1,0 +1,21 @@
+{
+  "mission_id": "FLORA_V22_20260928",
+  "drone_id": "AGRO_DRON_01",
+  "location_summary": {
+    "primary_crops": ["Phaseolus vulgaris", "Zea mays", "Opuntia ficus-indica"],
+    "overall_ipc_pct": 52.6,
+    "critical_conditions": ["Waterlogging_Anoxia", "Pest_Leaf_Damage"]
+  },
+  "action_plan": [
+    {
+      "priority": 1,
+      "task": "Apertura de zanjas de drenaje agrícola en zona anegada",
+      "target_area": "Lote Maíz/Sorgo"
+    },
+    {
+      "priority": 2,
+      "task": "Deshierbe manual de Bidens pilosa y Commelina alrededor de estacas de frijol",
+      "target_area": "Lote Frijol de Guía"
+    }
+  ]
+}
