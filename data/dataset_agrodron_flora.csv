@@ -1,0 +1,5 @@
+image_id,timestamp,crop_primary,phenological_stage,weed_pressure_pct,dominant_weed,hydraulic_condition,recommended_action
+IMG_001.jpg,2026-09-28T07:30:00Z,Phaseolus vulgaris,V2-V3,35.0,Bidens pilosa,Suelo Humedo,DESHIERBE_MANUAL_Y_TUTORADO
+IMG_002.jpg,2026-09-28T07:32:15Z,Zea mays,V3,68.0,Commelina spp.,Anegado (2-5cm),DRENAJE_URGENTE_Y_DESHIERBE
+IMG_003.jpg,2026-09-28T07:35:10Z,Opuntia ficus-indica,Adulto,55.0,Poaceae silvaticas,Suelo Seco,CONTROL_MECANICO_BASE
+IMG_004.jpg,2026-09-28T07:38:00Z,Adenium obesum,Floracion,10.0,Portulaca spp.,Maceta / Jardineria,MONITOREO_ROUTINARIO
